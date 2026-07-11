@@ -1,4 +1,4 @@
-# Comparandome CoOn Claude Code
+# Comparandome Con Claude Code
 
 Estoy haciendo un curso de Python para recordar como es volver a la academia y he decidico hacer una serie conparativa de los trabajos que realizo yo para las notas del curso, vs lo logra Claude, con el mismo enunciado.
 
